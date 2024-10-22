@@ -1,0 +1,16 @@
+b=0;
+AR=0;
+fb=[0,0];
+t=[0,0,0];
+fh_asa=0;
+tw=[0,0,0];
+l_BF=[0,0,0];
+fb_e=0;
+fc_e=0;
+perfil=[0,0,0,0];
+i_w1=0;
+offset_w2=0;
+i_w2=0;
+SM=0;
+motor=0;
+h_motor=0;
